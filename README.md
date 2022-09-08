@@ -9,7 +9,7 @@ This repository still working-on-progress.
 ## Algorithm Collection
 Provide api to solve cases with various algorithm.
 
-Checkout this [live demo](https://algorithm.apps.dewabuanam.com/) to see algolist in action.
+Checkout this [live demo](https://algolist.apps.dewabuanam.com/) to see algolist in action.
 
 
 # License
