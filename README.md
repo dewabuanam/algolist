@@ -13,4 +13,4 @@ Checkout this [live demo](https://algorithm.apps.dewabuanam.com/) to see algolis
 
 
 # License
-![GitHub](https://img.shields.io/github/license/dewabuanam/aboutfolio.svg?style=popout-square)
+![GitHub](https://img.shields.io/github/license/dewabuanam/algolist.svg?style=popout-square)
